@@ -45,7 +45,7 @@ export const siteConfig: SiteConfig = {
 	title: "MUFENG",
 
 	// 站点副标题
-	subtitle: "muefeng",
+	subtitle: "万物有灵",
 
 	// 站点 URL
 	site_url: "https://firefly.cuteleaf.cn",
