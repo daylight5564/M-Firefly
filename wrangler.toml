@@ -1,0 +1,8 @@
+name = "firefly"
+compatbility_data = "2026-10-10"
+
+[assets]
+directory = "./dist"
+
+[vars]
+NOOE_VERSION = "22"
